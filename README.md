@@ -1,1 +1,1 @@
-# ML_for_EE
+# Machine Learning for Electrical Engineering Applications
